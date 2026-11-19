@@ -1,0 +1,4 @@
+interface:
+  display_name: "我的账号研究与拆解"
+  short_description: "诊断账号定位、筛选真实对标、拆解爆款，并形成适合我的内容布局"
+  default_prompt: "使用 $my-account-research 按我的账号方向找对标，拆解定位、爆款与转化承接，再给出可执行的内容布局。"
